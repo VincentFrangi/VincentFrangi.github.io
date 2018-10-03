@@ -28,8 +28,7 @@ A really nice way to host the website is to use [GitHub Page](https://pages.gith
 
 Jekyll, Github Pages and Sleek have a very nice documentation so here I will just tell you my way to organize my git.
 
-![Workflow](https://github.com/VincentFrangi/VincentFrangi.github.io/blob/master/_img/posts/web_workflow.jpg "Workflow")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Workflow](https://raw.githubusercontent.com/VincentFrangi/VincentFrangi.github.io/master/assets/img/posts/web_workflow_md.jpg "Workflow")
 
 ### Create your website repository
 
