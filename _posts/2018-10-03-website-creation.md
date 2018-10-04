@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Website creation
-featured-img: web_workflow
+featured-img: snow
 categories: [Web, Guides]
 ---
 
