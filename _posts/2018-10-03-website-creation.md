@@ -98,3 +98,15 @@ gulp # do jerkyll build
 jekyll clean
 ```
 
+## Links
+
+* You can find the source code of this website at:
+[github](https://github.com/VincentFrangi/VincentFrangi.github.io)
+
+* You can find the source code for Jekyll at:
+[github](https://github.com/jekyll/jekyll)
+
+* Source code of Sleek Jekyll theme:
+[github](https://github.com/janczizikow/sleek).
+
+
