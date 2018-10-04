@@ -16,7 +16,7 @@
    id="svg849"
    inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="web_workflow.svg"
-   inkscape:export-filename="/home/vincent/Documents/web/sleek/_img/posts/web_workflow.png"
+   inkscape:export-filename="/home/vincent/Documents/web/sleek/ressources/posts/2018-10-03-website-creation/web_workflow.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -157,7 +157,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

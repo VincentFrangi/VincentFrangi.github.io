@@ -17,6 +17,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'CV', link: '/cv'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
