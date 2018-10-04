@@ -2,6 +2,7 @@
 layout: post
 title: Website creation
 featured-img: web_workflow
+categories: [Web, Guides]
 ---
 
 # Website creation
