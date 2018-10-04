@@ -27,3 +27,21 @@ Copy ```jpegexport.inx``` and ```jpegexport.inx``` in ```~/.config/inkscape/exte
 ### Usage
 
 Extensions menu > Export > JPEG Export
+
+## Bonus
+
+Convert ```.svg``` to ```.ico``` with ImageMagick
+
+```bash
+convert -density 384 icon.svg -define icon:auto-resize icon.ico
+```
+
+#### Verify
+
+```bash
+identify icon.ico
+```
+
+#### Source
+
+[stackexchange](https://graphicdesign.stackexchange.com/questions/77359/how-to-convert-a-square-svg-to-all-size-ico)
