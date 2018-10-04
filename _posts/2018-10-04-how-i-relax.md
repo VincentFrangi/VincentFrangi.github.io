@@ -24,3 +24,7 @@ or
 ```bash
 sudo apt-get mushrooms
 ```
+
+## My personal favorite
+
+![my best one](https://raw.githubusercontent.com/VincentFrangi/VincentFrangi.github.io/master/ressources/posts/2018-10-04-how-i-relax/mushroom2.jpg)
