@@ -1,19 +1,173 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="260.000000pt" height="260.000000pt" viewBox="0 0 260.000000 260.000000"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.11, written by Peter Selinger 2001-2013
-</metadata>
-<g transform="translate(0.000000,260.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M1237 1809 c-125 -29 -211 -117 -224 -228 -16 -139 56 -233 242 -315
-176 -77 225 -121 225 -201 0 -99 -70 -151 -189 -143 -80 6 -136 33 -197 94
-l-45 44 -54 -46 -54 -47 25 -33 c82 -106 249 -166 404 -144 184 26 271 118
-271 286 0 144 -62 216 -262 304 -174 76 -217 122 -198 208 10 44 34 70 78 82
-84 23 183 1 249 -56 l43 -36 48 43 c27 24 49 49 50 55 2 19 -68 75 -124 100
--89 41 -201 54 -288 33z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="34.502975mm"
+   height="34.501999mm"
+   viewBox="0 0 41.403572 41.402395"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="safari-pinned-tab.svg"
+   inkscape:export-filename="/home/vincent/Documents/web/sleek/assets/img/icons/favicon-32x32.png"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="45.094805"
+     inkscape:cy="74.566796"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showborder="true"
+     showguides="true"
+     scale-x="1.2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3713"
+       originx="-12.612401"
+       originy="-263.6261"
+       visible="false" />
+    <sodipodi:guide
+       position="-1.4998975,11.011293"
+       orientation="0,1"
+       id="guide3793"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="39.843221,12.600365"
+       orientation="0,1"
+       id="guide4754"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.229795,9.6650559"
+       orientation="1,0"
+       id="guide4756"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.873178,4.4219175"
+       orientation="0,1"
+       id="guide4771"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.612397,-51.371383)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0"
+       y="127.66666"
+       id="text3717"><tspan
+         sodipodi:role="line"
+         id="tspan3715"
+         x="0"
+         y="137.03043"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3781"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Mono for Powerline';-inkscape-font-specification:'Fira Mono for Powerline';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.3175,0,0,0.3175,20.314497,94.170077)"><flowRegion
+         id="flowRegion3783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Mono for Powerline';-inkscape-font-specification:'Fira Mono for Powerline'"><rect
+           id="rect3785"
+           width="110"
+           height="55"
+           x="-8.9826698"
+           y="-9.0790367"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Mono for Powerline';-inkscape-font-specification:'Fira Mono for Powerline'" /></flowRegion><flowPara
+         id="flowPara3787" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3795"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Mono for Powerline';-inkscape-font-specification:'Fira Mono for Powerline';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.3175,0,0,0.3175,20.314497,94.170077)"><flowRegion
+         id="flowRegion3797"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Mono for Powerline';-inkscape-font-specification:'Fira Mono for Powerline'"><rect
+           id="rect3799"
+           width="200"
+           height="60"
+           x="-38.98267"
+           y="-49.079037"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Mono for Powerline';-inkscape-font-specification:'Fira Mono for Powerline'" /></flowRegion><flowPara
+         id="flowPara3801" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3830"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.3175,0,0,0.3175,20.314497,94.170077)"><flowRegion
+         id="flowRegion3832"><rect
+           id="rect3834"
+           width="121.21831"
+           height="47.855976"
+           x="-3.0304577"
+           y="-47.542938" /></flowRegion><flowPara
+         id="flowPara3836" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3175"
+       x="55.714348"
+       y="94.63028"
+       id="text3840"><tspan
+         sodipodi:role="line"
+         id="tspan3838"
+         x="55.714348"
+         y="106.44589"
+         style="stroke-width:0.3175" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3842"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.3175,0,0,0.3175,20.314497,94.170077)"><flowRegion
+         id="flowRegion3844"><rect
+           id="rect3846"
+           width="176.60715"
+           height="41.785713"
+           x="-11.785714"
+           y="-50.062317" /></flowRegion><flowPara
+         id="flowPara3848" /></flowRoot>    <path
+       style="fill:#54ffa9;stroke-width:0.60182345"
+       d="M 38.861069,51.371383 18.159281,56.918267 12.612397,77.618879 27.767299,92.77378 48.469086,87.226896 54.01597,66.525109 Z M 31.930695,64.524517 H 42.01594 v 1.998241 h -7.710863 v 5.17192 h 6.958583 v 1.998243 h -6.958583 v 8.380861 h -2.374382 z m 18.560142,4.06701 c 0.148892,0 0.31345,0.0117 0.493682,0.03526 0.180227,0.01574 0.380059,0.04309 0.599474,0.08228 l 0.0117,2.221574 c -0.242924,-0.141044 -0.509356,-0.242922 -0.799296,-0.305611 -0.282104,-0.07053 -0.595555,-0.10579 -0.940351,-0.10579 -1.222454,0 -2.162802,0.399649 -2.821047,1.198948 -0.650407,0.791459 -0.975611,1.931633 -0.975611,3.420519 v 6.935076 h -2.174506 v -13.16489 h 2.174559 v 2.045258 c 0.454501,-0.799295 1.046138,-1.390934 1.774909,-1.774908 0.72877,-0.391812 1.614264,-0.587719 2.656487,-0.587716 z"
+       id="path3924"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
