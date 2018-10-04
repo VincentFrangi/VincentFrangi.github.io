@@ -6,20 +6,23 @@ featured-img: web_workflow
 
 # Website creation
 
-The purpose of this little website is to post about the project I am working on.
-Maybe someone will found useful information or maybe will be interested in collaboration.
+The purpose of this little website is to post about the projects I am working on.
+Maybe someone will found useful information or will be interested in collaboration.
 
 ## How this website is made
 
 One of the idea behind this website is also to learn about web development:
 as an embedded engineer it is my first experience on this domain.
 
-To build this website I looked for a beginner tool.
-After some research found [Jekyll](https://jekyllrb.com/),
-ideal to create blog or project website with **markdown**.
+To build this website I looked for a beginner tool, easy to handle.
+After some research, I have found [Jekyll](https://jekyllrb.com/),
+which is ideal to create blog or project website with **markdown**.
+The syntax of markdown can be learn in 3 minutes and I use it all the time.
+
+![Jekyll](https://jekyllrb.com/img/logo-2x.png)
 
 In addition, there is plenty of available theme to  your site.
-The awesome theme I am using here is called [Sleek](https://github.com/janczizikow/sleek)
+The awesome theme I am using here is called [Sleek](https://github.com/janczizikow/sleek).
 
 A really nice way to host the website is to use [GitHub Page](https://pages.github.com/). It is free and support Jekyll theme.
 
@@ -28,15 +31,17 @@ A really nice way to host the website is to use [GitHub Page](https://pages.gith
 
 Jekyll, Github Pages and Sleek have a very nice documentation so here I will just tell you my way to organize my git.
 
-![Workflow](https://raw.githubusercontent.com/VincentFrangi/VincentFrangi.github.io/master/assets/img/posts/web_workflow_md.jpg "Workflow")
+I pull form the *Sleek* repository for update and I push my post on my *Github Page* where the site is hosted.
+
+![Workflow](https://raw.githubusercontent.com/VincentFrangi/VincentFrangi.github.io/master/ressources/posts/2018-10-03-website-creation/web_workflow.png "Workflow")
 
 ### Create your website repository
 
 First of all I have create a repository for work my website on my github account (see: [GitHub Page](https://pages.github.com/))
 
-> The repository must be named **username.github.io** in my case :
+> **Note**: The repository must be named **username.github.io** to use hosting functionalities
+> in my case :
 > VincentFrangi.github.io
-
 
 ### Clone you the repository of your theme and add your remote
 
@@ -45,11 +50,14 @@ git clone https://github.com/janczizikow/sleek.git
 git remote add deploy https://github.com/username/username.github.io
 ```
 
-> You can also add the theme on your existing website using *gem* (see : [Sleek/README.md](https://github.com/janczizikow/sleek/blob/master/README.md))
-
 > To update sleek theme pull from origin
 
 > To update your website push on deploy
+
+
+> **Note** You can also add the theme on your existing website using *gem* (see : [Sleek/README.md](https://github.com/janczizikow/sleek/blob/master/README.md))
+
+
 
 ### Install the system requirements
 
