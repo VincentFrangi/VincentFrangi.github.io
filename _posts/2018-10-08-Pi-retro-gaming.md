@@ -107,7 +107,7 @@ When you plug a new controller you have to set it:
 > **Note**: some games require a BIOS 
 (see: [Some Playstation game crash](#Some Playstation game crash))
 
-### Keyboard settign
+### Keyboard settings
 
 **F4** to enter in terminal
 
@@ -118,7 +118,7 @@ sudo raspi-confi
 Localisation Option > Change Keyboard Layout
 Choose Generic 101-key PC
 
-> If you have swiss french keyboard as me choose ```German (Switzerland)``` then you can select ```French version````
+> If you have swiss french keyboard as me choose ```German (Switzerland)``` then you can select ```French version```
 
 https://thepihut.com/blogs/raspberry-pi-tutorials/25556740-changing-the-raspberry-pi-keyboard-layout
 
