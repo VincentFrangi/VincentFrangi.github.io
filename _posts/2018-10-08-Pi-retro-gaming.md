@@ -61,7 +61,11 @@ I would note RecalBox with :turtle: :turtle: :turtle:
  
 ## RetroPie
  
-I have install RetroPie following the well [made documentation](https://retropie.org.uk/docs/First-Installation/)
+I have install RetroPie following the well made [documentation](https://retropie.org.uk/docs/First-Installation/)
+
+![RetroPie](https://retropie.org.uk/wp-content/uploads/2016/04/RetroPieWebsiteLogo.png)
+
+### Controller
 
 On the first boot you have to setup the controller and my *SNES Controller* is seen as *Xbox Controller*
 but it seem to be not a problem because you can skip buttons you don't have.
@@ -78,6 +82,11 @@ but it seem to be not a problem because you can skip buttons you don't have.
 |Select+X |	RGUI Menu|
 |Select+B| 	Reset|
 
+When you plug a new controller you have to set it:
+
+1) Open menu with ```start```
+2) Configure input
+
 ### Install emulators
 
 1) Set up internet connection (wifi or LAN)
@@ -89,7 +98,7 @@ but it seem to be not a problem because you can skip buttons you don't have.
 2) Decompress
 3) Add to the righ folder
 4) Reboot
-5) ```start > scraper > scraper now````
+5) ```start > scraper > scraper now```
 
 ### Keyboard settign
 
@@ -136,7 +145,7 @@ https://retropie.org.uk/forum/topic/2902/first-boot-up-of-retropie-comes-up-with
 
  #### Supertux game not launching
  
- > it require a desktop
+ > It require a desktop
  
  #### Some Playstation game crash
  
@@ -148,7 +157,7 @@ https://retropie.org.uk/forum/topic/2902/first-boot-up-of-retropie-comes-up-with
  
  http://www.netfox2.net/modules/wfdownloads/singlefile.php?cid=11&lid=67
  
-## Safe shotdown with retroflag case
+## Safe shutdown with RetroFlag picase
 
 https://github.com/RetroFlag/retroflag-picase
 
@@ -156,6 +165,7 @@ For RetroPie
 
 * Connect to the internet
 * Enter in terminal **F4**
+
 ```
 wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/install.sh" | sudo bash
 ````
