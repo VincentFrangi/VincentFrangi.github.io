@@ -8,14 +8,18 @@ categories: [Raspberry, Guides]
 ## Material
 
 * Rasberry Pi (3b+ for me)
+  * Heatsink
 * Large SD card > 8 go
 * Power supply
 * [Nice retrogaming case](http://retroflag.com/)
+  * Silent ventilation fan (30mm x 30mm x 7mm)
 * Controller
   * USB snes
   * XBOX
   * PS3
 * USB keyboard
+
+![RetroFlag](http://retroflag.com/images/sfc/sfc1.jpg)
 
 ## Distributions
 
@@ -51,7 +55,7 @@ Finally, I tryed back the stable version with my good old RPi 3b, and I was able
 * RPi 3b+ not supported yet (and take me a long time to find the issue)
 * [Wiki](https://github.com/recalbox/recalbox-os/wiki/Installation-%28EN%29) not really update
  
-### Note
+### Conclusion
 
 Even with the lot of time I waste due to bad documetation,
 It is a really beautiful system and I am waiting for the RPI 3b+ support.
@@ -99,6 +103,9 @@ When you plug a new controller you have to set it:
 3) Add to the righ folder
 4) Reboot
 5) ```start > scraper > scraper now```
+
+> **Note**: some games require a BIOS 
+(see: [Some Playstation game crash](#Some Playstation game crash))
 
 ### Keyboard settign
 
@@ -151,9 +158,9 @@ https://retropie.org.uk/forum/topic/2902/first-boot-up-of-retropie-comes-up-with
  
  as Crash Team Racing 
  
- Install BIOS
+ **Solution**: Install BIOS
  
- copy SCPH1001.BIN to /home/pi/RetroPie/BIOS
+ * Copy SCPH1001.BIN to /home/pi/RetroPie/BIOS
  
  http://www.netfox2.net/modules/wfdownloads/singlefile.php?cid=11&lid=67
  
