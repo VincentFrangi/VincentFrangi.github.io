@@ -134,3 +134,14 @@ https://retropie.org.uk/forum/topic/2902/first-boot-up-of-retropie-comes-up-with
  
  http://www.netfox2.net/modules/wfdownloads/singlefile.php?cid=11&lid=67
  
+## Safe shotdown with retroflag case
+
+https://github.com/RetroFlag/retroflag-picase
+
+For RetroPie
+
+* Connect to the internet
+* Enter in terminal **F4**
+```
+wget -O - "https://raw.githubusercontent.com/RetroFlag/retroflag-picase/master/install.sh" | sudo bash
+````
