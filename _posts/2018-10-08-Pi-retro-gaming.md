@@ -91,8 +91,22 @@ but it seem to be not a problem because you can skip buttons you don't have.
 4) Reboot
 5) ```start > scraper > scraper now````
 
-### Issues
+### Keyboard settign
 
+**F4** to enter in terminal
+
+```
+sudo raspi-confi
+````
+
+Localisation Option > Change Keyboard Layout
+Choose Generic 101-key PC
+
+> If you have swiss french keyboard as me choose ```German (Switzerland)``` then you can select ```French version````
+
+https://thepihut.com/blogs/raspberry-pi-tutorials/25556740-changing-the-raspberry-pi-keyboard-layout
+
+### Issues
 #### Bot in terminal after upgrade
 
 After upgrading the system, it was booting in the terminal:
