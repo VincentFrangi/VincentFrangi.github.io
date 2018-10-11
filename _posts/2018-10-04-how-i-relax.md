@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "One way I relax after work"
+title: "A good way to relax after work"
 featured-img: mushroom
 categories: [Nature]
 ---
 
-# Mushroom Collectin
+# Mushroom Collecting
 
 Bored of programming, eyes tired of screens, you just burn your dev board ? Go and play the IRL Pokemon, not Pokekemon Go, but go in the forest to collect mushroom !
 
