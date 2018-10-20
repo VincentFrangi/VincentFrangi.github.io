@@ -6,7 +6,6 @@ categories: [Raspberry, Guides]
 ---
 
 You can easily transform your Raspberry Pi into an awesome little retro-gaming machine.
-
 It supports up to 50 consoles ! Such as:
 
 * Nitendo 64
@@ -37,7 +36,7 @@ This post relate my experience building a gaming console and it is a complement 
 
 ## Distributions
 
-There is tree major solution to turn your Raspberry Pi into a multi-sonsol retro-gaming station:
+There is tree major solution to turn your Raspberry Pi into a multi-consol retro-gaming station:
 
 * [RecalBox](https://www.recalbox.com/)
   * Easy to set up
@@ -54,7 +53,6 @@ Theses image can be download and flash using [etcher](https://etcher.io/).
  
 > **Note**: RetroPie can be also installed on top of an existing Raspbian 
 > https://retropie.org.uk/docs/Manual-Installation/
-
 
 Sadly, I have not try Lakka for the moment, here is my feedback on the two other.
 
